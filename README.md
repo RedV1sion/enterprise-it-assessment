@@ -54,7 +54,7 @@ This project contains a professional enterprise assessment report covering:
 
 ## Report
 
-📄 [View Assessment Report](report/Enterprise_IT_Infrastructure_Security_Assessment.pdf)
+📄 [View Assessment Report](/Enterprise_IT_Infrastructure_Security_Assessment.pdf)
 
 ---
 
