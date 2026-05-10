@@ -6,6 +6,7 @@ Real-world enterprise IT infrastructure and security assessment conducted for a 
 
 ---
 <img width="1596" height="1287" alt="image" src="https://github.com/user-attachments/assets/7ce82807-b7c9-49b1-8440-39a0ecefbcd6" />
+
 ---
 
 ## Overview
